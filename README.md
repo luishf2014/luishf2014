@@ -10,7 +10,7 @@
 
 ### 🌟 Sobre Mim
 
-```javascript
+```javascript id="fwjf1h"
 const luis = {
     nome: "Luis Henrique Mota da Fonseca",
     cargo: "Software Developer",
@@ -51,7 +51,6 @@ const luis = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -112,11 +111,11 @@ const luis = {
 
 <br/>
 
-<a href="https://github.com/SEU_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+<a href="https://github.com/luishf2014">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luishf2014&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishf2014&layout=compact&theme=dracula&hide_border=true"/>
 
 </div>
 
@@ -190,7 +189,7 @@ Projeto desenvolvido para controle e automação das operações de um estaciona
 
 ### 💻 **Desenvolvimento de Software**
 
-Tenho experiência prática desenvolvendo aplicações e soluções voltadas para problemas reais, trabalhando principalmente com desenvolvimento **Full Stack**, com maior interesse e aprofundamento em **Back-end**.
+Experiência prática no desenvolvimento de aplicações e soluções voltadas para problemas reais, trabalhando principalmente com desenvolvimento **Full Stack**, com maior interesse e aprofundamento em **Back-end**.
 
 🔹 Desenvolvimento de aplicações web completas  
 🔹 Desenvolvimento de APIs REST  
@@ -212,7 +211,7 @@ Tenho experiência prática desenvolvendo aplicações e soluções voltadas par
 
 ### Análise e Desenvolvimento de Sistemas
 
-Desenvolvimento de software • Banco de dados • Programação orientada a objetos • Engenharia de software • Desenvolvimento Web
+Desenvolvimento de Software • Banco de Dados • Programação Orientada a Objetos • Engenharia de Software • Desenvolvimento Web
 
 </div>
 
@@ -222,9 +221,8 @@ Desenvolvimento de software • Banco de dados • Programação orientada a obj
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](SEU_PORTFOLIO)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luishf2014)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-henrique-mt)
 
 </div>
 
@@ -234,7 +232,7 @@ Desenvolvimento de software • Banco de dados • Programação orientada a obj
 
 ### 💡 *"Transformando ideias e problemas reais em soluções através de software."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=luishf2014&color=blueviolet&style=for-the-badge)
 
 ⭐ **Explore meus projetos e acompanhe minha evolução como desenvolvedor!** ⭐
 
@@ -244,6 +242,6 @@ Desenvolvimento de software • Banco de dados • Programação orientada a obj
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/luishf2014/luishf2014/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
