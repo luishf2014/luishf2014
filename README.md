@@ -240,8 +240,9 @@ Desenvolvimento de Software • Banco de Dados • Programação Orientada a Obj
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://raw.githubusercontent.com/luishf2014/luishf2014/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+ -->
